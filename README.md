@@ -6,7 +6,7 @@
 
 **A full-stack developer expertise in Agile methodologies, proficient in JavaScript, TypeScript, ReactJS, and the MERN stack. Specializing in responsive web design and debugging, I excel in both front-end and back-end development, ensuring clean code and optimal performance throughout the software development lifecycle. My experience includes building scalable apps, integrating APIs, implementing secure payment integration with careful attention to detail.**
 
-- 📫 How to reach me **agrawalmahak7@gmail.com**
+📫 How to reach me **agrawalmahak7@gmail.com**
 
 
 ###
