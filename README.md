@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **agrawalmahak7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10hqsqlMhPEhzTDTDQ5GcGLro89N5MdR4/view?usp=sharing](https://drive.google.com/file/d/10hqsqlMhPEhzTDTDQ5GcGLro89N5MdR4/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
