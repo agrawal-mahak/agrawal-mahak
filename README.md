@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahak Agrawal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawal-mahak&label=Profile%20views&color=0e75b6&style=flat" alt="agrawal-mahak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawal-mahak" alt="agrawal-mahak" /></a> </p>
@@ -12,13 +11,10 @@
 
 - 📫 How to reach me **agrawalmahak7@gmail.com**
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahak-agrawal-372a41236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahak-agrawal-372a41236/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/19pbgqzu6x/?mibextid=qi2omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/19pbgqzu6x/?mibextid=qi2omg" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mahak_agrawal_7?igsh=mwo5bwhzytzudnvuyq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mahak_agrawal_7?igsh=mwo5bwhzytzudnvuyq==" height="30" width="40" /></a>
+<a href="https://fb.com/mahak agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahak agrawal" height="30" width="40" /></a>
+<a href="https://instagram.com/mahak_agrawal_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahak_agrawal_7" height="30" width="40" /></a>
 <a href="https://discord.gg/mahak_agrawal_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahak_agrawal_7" height="30" width="40" /></a>
 </p>
 
@@ -30,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrawal-mahak&show_icons=true&locale=en" alt="agrawal-mahak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawal-mahak&" alt="agrawal-mahak" /></p>
-
-
