@@ -92,3 +92,13 @@
   <img src="https://streak-stats.demolab.com/?user=agrawal-mahak&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-mahak&layout=compact&theme=radical&hide_border=true" height="180"/>
 </div>
+
+
+## 💡 Fun Facts
+
+- I believe in "Code. Create. Collaborate." — building together is better!
+- Always up for a challenge and love exploring new technologies.
+- My debugging style: fueled by coffee and curiosity ☕🧐
+- When not coding, you’ll find me exploring new tech memes or building mini-games.
+
+---
