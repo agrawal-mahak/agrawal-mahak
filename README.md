@@ -33,7 +33,7 @@
 - **Languages & Frameworks:** JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, C, jQuery
 - **Databases:** MongoDB
 - **Styling:** Tailwind CSS, Bootstrap, CSS, HTML, Material UI, Shadcn UI
-- **Tools:** Figma, Postman, Jira, Trello, Visual Studio Code, GitHub, Cursor AI
+- **Tools:** Figma, Postman, Jira, Trello, Visual Studio Code, GitHub, Cursor AI, Hoppscotch
 
 ###
 
