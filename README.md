@@ -27,7 +27,7 @@
 ## 🛠️ Tech Skills
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,html,css,github,postman,c,c++,java,firebase,flutter,docker,kubernetes,mongoDB,nginx,node.js,npm,redux,Sass,slack,mui,jira,vercel,git" />
+ <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,html,css,github,postman,c,c++,java,firebase,flutter,docker,kubernetes,mongoDB,nginx,node.js,npm,redux,Sass,slack,mui,jira,vercel,git,mysql" />
 </div>
 
 - **Languages & Frameworks:** JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, C, jQuery
