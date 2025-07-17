@@ -85,9 +85,10 @@
 ###
 
  
+ ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrawal-mahak&show_icons=true&locale=en&layout=compact" alt="agrawal-mahak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrawal-mahak&show_icons=true&locale=en" alt="agrawal-mahak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawal-mahak&" alt="agrawal-mahak" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agrawal-mahak&show_icons=true&hide_border=true&count_private=true&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=agrawal-mahak&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-mahak&layout=compact&theme=radical&hide_border=true" height="180"/>
+</div>
