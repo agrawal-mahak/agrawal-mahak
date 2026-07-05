@@ -105,9 +105,8 @@ ChatGPT-style app with text summarization, content generation, chatbot, and code
 </td>
 </tr>
 </table>
-> 💡 *Add a live link or GitHub repo link to each project above once available — recruiters engage far more with verifiable, clickable project links.*
----
-📊 GitHub Stats
+
+---📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agrawal-mahak&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=agrawal-mahak&theme=tokyonight&hide_border=true" height="165"/>
@@ -126,7 +125,7 @@ ChatGPT-style app with text summarization, content generation, chatbot, and code
 <li>⚡ Coffee-to-code ratio on deadline days: dangerously high</li>
 <li>🌙 Late-night deploys are 90% caffeine, 10% hope</li>
 </ul>
----
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=100&section=footer" width="100%"/>
 </div>
