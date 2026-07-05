@@ -12,7 +12,8 @@
 <td width="62%" valign="top">
 👋 About Me
 I'm a Full Stack Developer based in India with 2+ years of professional frontend engineering experience, currently expanding hands-on into backend development through independent MERN stack projects.
-🏢 Currently building enterprise ERP systems at Smart Marine Teknoloji
+🔭 Previously built enterprise ERP systems as a Frontend Engineer at Smart Marine Teknoloji
+👀 Actively looking for new Full Stack Developer opportunities
 🚀 Comfortable across the stack — from React UI architecture to REST API design
 🌱 Actively deepening backend, DevOps, and system design skills
 📫 Reach me at agrawalmahak7@gmail.com
@@ -22,6 +23,7 @@ I'm a Full Stack Developer based in India with 2+ years of professional frontend
 </td>
 </tr>
 </table>
+📫 How to Reach Me
 <div align="center">
 <a href="https://www.linkedin.com/in/mahak-agrawal-372a41236/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
 <a href="mailto:agrawalmahak7@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
@@ -65,8 +67,15 @@ Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<br/><br/>
+AI Tools
+<br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 </div>
 ---
 📂 Featured Projects
