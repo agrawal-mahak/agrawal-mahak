@@ -7,30 +7,25 @@
   </a>
 </div>
 <br/>
-<table>
-<tr>
-<td width="62%" valign="top">
-👋 About Me
+<h2>👋 <b>About Me</b></h2>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="260"/>
 I'm a Full Stack Developer based in India with 2+ years of professional frontend engineering experience, currently expanding hands-on into backend development through independent MERN stack projects.
-🔭 Previously built enterprise ERP systems as a Frontend Engineer at Smart Marine Teknoloji
-👀 Actively looking for new Full Stack Developer opportunities
-🚀 Comfortable across the stack — from React UI architecture to REST API design
-🌱 Actively deepening backend, DevOps, and system design skills
-📫 Reach me at agrawalmahak7@gmail.com
-</td>
-<td width="38%" align="center">
-<img src="https://imgvisuals.com/cdn/shop/products/animated-female-coder-character-402691.gif?v=1698899292" width="100%" style="border-radius:12px; max-width:280px;"/>
-</td>
-</tr>
-</table>
-📫 How to Reach Me
+<ul>
+<li>🔭 Previously built enterprise ERP systems as a Frontend Engineer at <b>Smart Marine Teknoloji</b></li>
+<li>👀 Actively looking for new <b>Full Stack Developer</b> opportunities</li>
+<li>🚀 Comfortable across the stack — from React UI architecture to REST API design</li>
+<li>🌱 Actively deepening backend, DevOps, and system design skills</li>
+<li>📫 Reach me at <b>agrawalmahak7@gmail.com</b></li>
+</ul>
+<br clear="right"/>
+<h2>📫 <b>How to Reach Me</b></h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/mahak-agrawal-372a41236/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
 <a href="mailto:agrawalmahak7@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
 <a href="https://github.com/agrawal-mahak"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"/></a>
 </div>
 ---
-🛠️ Tech Stack
+<h2>🛠️ <b>Tech Stack</b></h2>
 <div align="center">
 Languages & Frontend
 <br/>
@@ -53,7 +48,6 @@ Backend & Databases
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <br/><br/>
 DevOps & Cloud <sub>(currently learning)</sub>
 <br/>
@@ -76,9 +70,10 @@ AI Tools
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 ---
-📂 Featured Projects
+<h2>📂 <b>Featured Projects</b></h2>
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -105,8 +100,8 @@ ChatGPT-style app with text summarization, content generation, chatbot, and code
 </td>
 </tr>
 </table>
-
----📊 GitHub Stats
+---
+<h2>📊 <b>GitHub Stats</b></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agrawal-mahak&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=agrawal-mahak&theme=tokyonight&hide_border=true" height="165"/>
@@ -118,14 +113,13 @@ ChatGPT-style app with text summarization, content generation, chatbot, and code
   <img src="https://github-profile-trophy.vercel.app/?username=agrawal-mahak&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
 </div>
 ---
-☕ A Few Fun Facts
+<h2>☕ <b>A Few Fun Facts</b></h2>
 <ul>
 <li>🧠 My best code reviews happen over the second cup of coffee, not the first</li>
 <li>🐛 Debugging philosophy: <em>"It's not a bug, it's an undocumented coffee break."</em></li>
 <li>⚡ Coffee-to-code ratio on deadline days: dangerously high</li>
 <li>🌙 Late-night deploys are 90% caffeine, 10% hope</li>
 </ul>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=100&section=footer" width="100%"/>
 </div>
