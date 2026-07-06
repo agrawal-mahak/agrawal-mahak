@@ -8,7 +8,7 @@
 </div>
 <br/>
 <h2>👋 <b>About Me</b></h2>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="260"/>
+<img src="https://imgvisuals.com/cdn/shop/products/animated-female-coder-character-402691.gif?v=1698899292" align="right" width="260"/>
 I'm a Full Stack Developer based in India with 2+ years of professional frontend engineering experience, currently expanding hands-on into backend development through independent MERN stack projects.
 <ul>
 <li>🔭 Previously built enterprise ERP systems as a Frontend Engineer at <b>Smart Marine Teknoloji</b></li>
