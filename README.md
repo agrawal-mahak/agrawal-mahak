@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Mahak%20Agrawal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
 </div>
@@ -22,9 +21,10 @@ I'm a Full Stack Developer based in India with 2+ years of professional frontend
 <h2>📫 <b>How to Reach Me</b></h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/mahak-agrawal-372a41236/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-<a href="mailto:agrawalmahak7@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=agrawalmahak7@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
 <a href="https://github.com/agrawal-mahak"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"/></a>
-</d
+</div>
+
 <h2>🛠️ <b>Tech Stack</b></h2>
 <div align="center">
 Languages & Frontend
@@ -72,6 +72,7 @@ AI Tools
 <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
+
 <h2>📂 <b>Featured Projects</b></h2>
 <table>
 <tr>
@@ -99,6 +100,7 @@ ChatGPT-style app with text summarization, content generation, chatbot, and code
 </td>
 </tr>
 </table>
+
 <h2>📊 <b>GitHub Stats</b></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agrawal-mahak&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165"/>
@@ -111,6 +113,7 @@ ChatGPT-style app with text summarization, content generation, chatbot, and code
   <img src="https://github-profile-trophy.vercel.app/?username=agrawal-mahak&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
 </div>
 
+<div align="left">
 <h2>☕ <b>A Few Fun Facts</b></h2>
 <ul>
 <li>🧠 My best code reviews happen over the second cup of coffee, not the first</li>
@@ -118,6 +121,7 @@ ChatGPT-style app with text summarization, content generation, chatbot, and code
 <li>⚡ Coffee-to-code ratio on deadline days: dangerously high</li>
 <li>🌙 Late-night deploys are 90% caffeine, 10% hope</li>
 </ul>
+</div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=100&section=footer" width="100%"/>
 </div>
