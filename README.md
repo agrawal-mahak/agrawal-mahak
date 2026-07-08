@@ -74,33 +74,35 @@ AI Tools
 </div>
 
 <h2>📂 <b>Featured Projects</b></h2>
-<table>
+ <table>
 <tr>
 <td width="50%" valign="top">
-🏗️ Smart Marine ERP System
-React.js · Next.js · Redux Toolkit · PostgreSQL
+<a href="https://github.com/smart-marine/erp_frontend" target="_blank"><strong>🏗️ Smart Marine ERP System</strong></a><br>
+React.js · Next.js · Redux Toolkit · PostgreSQL<br>
 15+ ERP modules with 50+ reusable UI components, RBAC-secured workflows, and real-time Socket.IO updates across multiple departments.
 </td>
+
 <td width="50%" valign="top">
-📊 Marine Supply Chain Analytics
-React.js · RabbitMQ · Docker · Kubernetes
+<a href="YOUR_PROJECT_LINK_2" target="_blank"><strong>📊 Marine Supply Chain Analytics</strong></a><br>
+React.js · RabbitMQ · Docker · Kubernetes<br>
 Operational dashboards managing 5,000+ records with complex filtering, improving data analysis efficiency by 40%.
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-🎓 StudyNotion — EdTech Platform
-MERN Stack · Cloudinary · Razorpay
+<a href="https://github.com/agrawal-mahak/StudyNotion" target="_blank"><strong>🎓 StudyNotion — EdTech Platform</strong></a><br>
+MERN Stack · Cloudinary · Razorpay<br>
 Platform for publishing and consuming educational video content, with integrated media storage and payment processing.
 </td>
+
 <td width="50%" valign="top">
-📋 Project Management Platform - Taskflow
-MERN Stack · Multer · OAuth
-TaskFlow is a full-stack, comprehensive Project management platform designed for seamless task management, team collaboration, and project tracking. It features a modern, responsive user interface and a robust backend to handle real-time data efficiently.
+<a href="https://github.com/agrawal-mahak/Project-Management-Platform-TaskFlow" target="_blank"><strong>📋 Project Management Platform - TaskFlow</strong></a><br>
+MERN Stack · Multer · OAuth<br>
+TaskFlow is a full-stack project management platform designed for seamless task management, team collaboration, and project tracking. It features a modern, responsive user interface and a robust backend to handle real-time data efficiently.
 </td>
 </tr>
 </table>
-
 <h2>📊 <b>GitHub Stats</b></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agrawal-mahak&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165"/>
