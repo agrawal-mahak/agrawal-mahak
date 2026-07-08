@@ -96,7 +96,7 @@ Platform for publishing and consuming educational video content, with integrated
 <td width="50%" valign="top">
 📋 Project Management Platform - Taskflow
 MERN Stack · Multer · OAuth
-TaskFlow is a full-stack, comprehensive Project management platform : Taskflow designed for seamless task management, team collaboration, and project tracking. It features a modern, responsive user interface and a robust backend to handle real-time data efficiently.
+TaskFlow is a full-stack, comprehensive Project management platform designed for seamless task management, team collaboration, and project tracking. It features a modern, responsive user interface and a robust backend to handle real-time data efficiently.
 </td>
 </tr>
 </table>
