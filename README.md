@@ -83,7 +83,10 @@ React.js · Next.js · Redux Toolkit · PostgreSQL<br>
 </td>
 
 <td width="50%" valign="top">
-<a href="YOUR_PROJECT_LINK_2" target="_blank"><strong>📊 Marine Supply Chain Analytics</strong></a><br>
+<!-- <a href="YOUR_PROJECT_LINK_2" target="_blank"> -->
+  <strong>📊 Marine Supply Chain Analytics</strong>
+<!-- </a> -->
+  <br>
 React.js · RabbitMQ · Docker · Kubernetes<br>
 Operational dashboards managing 5,000+ records with complex filtering, improving data analysis efficiency by 40%.
 </td>
