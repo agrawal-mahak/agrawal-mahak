@@ -24,7 +24,6 @@ I'm a Full Stack Developer based in India with 2+ years of professional frontend
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=agrawalmahak7@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
 <a href="https://github.com/agrawal-mahak"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"/></a>
 </div>
-
 <h2>🛠️ <b>Tech Stack</b></h2>
 <div align="center">
 Languages & Frontend
@@ -72,7 +71,6 @@ AI Tools
 <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
-
 <h2>📂 <b>Featured Projects</b></h2>
  <table>
 <tr>
@@ -81,7 +79,6 @@ AI Tools
 React.js · Next.js · Redux Toolkit · PostgreSQL<br>
 15+ ERP modules with 50+ reusable UI components, RBAC-secured workflows, and real-time Socket.IO updates across multiple departments.
 </td>
-
 <td width="50%" valign="top">
 <!-- <a href="YOUR_PROJECT_LINK_2" target="_blank"> -->
   <strong>📊 Marine Supply Chain Analytics</strong>
@@ -91,18 +88,25 @@ React.js · RabbitMQ · Docker · Kubernetes<br>
 Operational dashboards managing 5,000+ records with complex filtering, improving data analysis efficiency by 40%.
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/agrawal-mahak/StudyNotion" target="_blank"><strong>🎓 StudyNotion — EdTech Platform</strong></a><br>
 MERN Stack · Cloudinary · Razorpay<br>
 Platform for publishing and consuming educational video content, with integrated media storage and payment processing.
 </td>
-
 <td width="50%" valign="top">
 <a href="https://github.com/agrawal-mahak/Project-Management-Platform-TaskFlow" target="_blank"><strong>📋 Project Management Platform - TaskFlow</strong></a><br>
 MERN Stack · Multer · OAuth<br>
 TaskFlow is a full-stack project management platform designed for seamless task management, team collaboration, and project tracking. It features a modern, responsive user interface and a robust backend to handle real-time data efficiently.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/agrawal-mahak/E-shop" target="_blank"><strong>🛒 E-Shop — E-Commerce Platform</strong></a><br>
+Node.js · Express.js · MongoDB · JWT<br>
+Full-stack e-commerce application with JWT authentication, product and order management, customer reviews, search, and pagination.
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -117,7 +121,6 @@ TaskFlow is a full-stack project management platform designed for seamless task 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agrawal-mahak&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
 </div>
-
 <div align="left">
 <h2>☕ <b>A Few Fun Facts</b></h2>
 <ul>
