@@ -72,7 +72,7 @@ AI Tools
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 <h2>📂 <b>Featured Projects</b></h2>
- <table>
+<table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/smart-marine/erp_frontend" target="_blank"><strong>🏗️ Smart Marine ERP System</strong></a><br>
@@ -81,9 +81,9 @@ React.js · Next.js · Redux Toolkit · PostgreSQL<br>
 </td>
 <td width="50%" valign="top">
 <!-- <a href="YOUR_PROJECT_LINK_2" target="_blank"> -->
-  <strong>📊 Marine Supply Chain Analytics</strong>
+<strong>📊 Marine Supply Chain Analytics</strong>
 <!-- </a> -->
-  <br>
+<br>
 React.js · RabbitMQ · Docker · Kubernetes<br>
 Operational dashboards managing 5,000+ records with complex filtering, improving data analysis efficiency by 40%.
 </td>
@@ -102,11 +102,14 @@ TaskFlow is a full-stack project management platform designed for seamless task 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/agrawal-mahak/E-shop" target="_blank"><strong>🛒 E-Shop — E-Commerce Platform</strong></a><br>
-Node.js · Express.js · MongoDB · JWT<br>
-Full-stack e-commerce application with JWT authentication, product and order management, customer reviews, search, and pagination.
+<a href="https://github.com/agrawal-mahak/E-shop/tree/main/backend" target="_blank"><strong>🛒 E-Shop — Backend API</strong></a><br>
+Node.js · Express.js · MongoDB · JWT · Stripe<br>
+RESTful e-commerce API with JWT authentication, product and order management, customer reviews, search, pagination, and Stripe payment processing.
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/agrawal-mahak/E-shop/tree/main/frontend" target="_blank"><strong>🛍️ E-Shop — Frontend Web App</strong></a><br>
+React · Material UI · Tailwind CSS · Vite<br>
+Responsive storefront UI with product catalog, cart management, a 3-step Stripe checkout wizard, order tracking, and an admin operations panel.
 </td>
 </tr>
 </table>
